@@ -1,5 +1,4 @@
-Flatbed - Offline PDF <-> JPG Converter
-HTML + CSS + JavaScript, no database, no server, no internet needed.
+Flatbed - t, no database, no server, no internet needed.
 
 Run: open index.html in Chrome or Edge. (If your browser blocks anything, run
 "python -m http.server 8000" in this folder and open http://localhost:8000)
