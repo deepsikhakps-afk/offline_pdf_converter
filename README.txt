@@ -8,5 +8,5 @@ PDF to JPG: choose PDF, tick pages, set quality/resolution, download JPGs or one
 JPG to PDF: add images, drag to reorder, choose page size/margin, Create PDF.
 
 Bundled libraries (in libs/, so it works offline):
-  pdf.js 3.11.174 (Apache-2.0) - renders PDF pages
+  pdf.js 3.11.174 (Apache-2.0) - 
   jsPDF 2.5.1 (MIT)            - builds PDF files
